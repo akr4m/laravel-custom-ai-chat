@@ -9,4 +9,4 @@
 
 **Sample File:**
 
-[Sample file](https://raw.githubusercontent.com/akr4m/laravel-custom-ai-chat/main/Laravel%20BD%20Leader.txt)
+[Sample file](https://raw.githubusercontent.com/akr4m/laravel-custom-ai-chat/main/Laravel%20BD%20Leaders.txt)
